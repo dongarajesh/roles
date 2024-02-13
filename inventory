@@ -1,29 +1,29 @@
-[mongodb]
-mongodb.joindevops.online
+[mongodb1]
+mongodb1.devops1234.online
 
-[catalogue]
-catalogue.joindevops.online
+[mysql1]
+mysql1.devops1234.online
 
-[web]
-web.joindevops.online
+[cart1]
+cart1.devops1234.online
 
-[redis]
-redis.joindevops.online
+[user1]
+user1.devops1234.online
 
-[user]
-user.joindevops.online
+[shipping1]
+shipping1.devops1234.online
 
-[cart]
-cart.joindevops.online
+[web1]
+web1.devops1234.online
 
-[mysql]
-mysql.joindevops.online
+[catalogue1]
+catalogue1.devops1234.online
 
 [shipping]
-shipping.joindevops.online
+mongodb1.devops1234.online
 
-[rabbitmq]
-rabbitmq.joindevops.online
+[redis1]
+redis1.joindevops.online
 
-[payment]
-payment.joindevops.online
+[rabbitmq1]
+rabbitmq1.joindevops.online
